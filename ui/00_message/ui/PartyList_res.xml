@@ -117,7 +117,7 @@
   </message>
   <message>
     <key>party_list_inviting</key>
-    <text xml:space="preserve">（招待中）</text>
+    <text xml:space="preserve">(Pending)</text>
   </message>
   <message>
     <key>party_list_guide_switch</key>
@@ -133,11 +133,11 @@
   </message>
   <message>
     <key>party_list_main_pawn_count</key>
-    <text xml:space="preserve">契約状況：</text>
+    <text xml:space="preserve">Contracts:</text>
   </message>
   <message>
     <key>party_list_support_pawn_count</key>
-    <text xml:space="preserve">雇用状況：</text>
+    <text xml:space="preserve">Contracts:</text>
   </message>
   <message>
     <key>party_list_notfound_main_pawn</key>
