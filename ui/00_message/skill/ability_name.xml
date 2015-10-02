@@ -5,7 +5,6 @@
   </message>
   <message>
     <key>ABILITY_NAME_62</key>
-<<<<<<< HEAD
     <text xml:space="preserve">Fireguard</text>
   </message>
   <message>
@@ -15,17 +14,7 @@
   <message>
     <key>ABILITY_NAME_111</key>
     <text xml:space="preserve">Easy Grip</text>
-=======
-    <text xml:space="preserve">Anti-Fire</text>
-  </message>
-  <message>
-    <key>ABILITY_NAME_82</key>
-    <text xml:space="preserve">Counter</text>
-  </message>
-  <message>
-    <key>ABILITY_NAME_111</key>
-    <text xml:space="preserve">Permanent Grip</text>
->>>>>>> SpartanVXL/master
+
   </message>
   <message>
     <key>ABILITY_NAME_126</key>
@@ -37,11 +26,7 @@
   </message>
   <message>
     <key>ABILITY_NAME_4</key>
-<<<<<<< HEAD
     <text xml:space="preserve">Counter Expert</text>
-=======
-    <text xml:space="preserve">Counter</text>
->>>>>>> SpartanVXL/master
   </message>
   <message>
     <key>ABILITY_NAME_34</key>
@@ -49,11 +34,7 @@
   </message>
   <message>
     <key>ABILITY_NAME_67</key>
-<<<<<<< HEAD
     <text xml:space="preserve">Flameproof</text>
-=======
-    <text xml:space="preserve">Reduce Fire</text>
->>>>>>> SpartanVXL/master
   </message>
   <message>
     <key>ABILITY_NAME_85</key>
